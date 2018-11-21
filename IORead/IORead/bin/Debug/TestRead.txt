@@ -1,0 +1,11 @@
+a a a a a a a a a a a
+Log Entry: :hehe
+
+Log Entry: :Hello Bryan
+
+Log Entry: :hehe
+
+Log Entry: :Hello Bryan
+//创建文件 并写入内容
+        //private const string FILE_NAME = "Test.txt";//(在create new file(donnot exist before)中执行)
+        static void Main(string[] args)
